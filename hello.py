@@ -1,1 +1,1 @@
-print('Welcone')
+print('Welcome to python')
